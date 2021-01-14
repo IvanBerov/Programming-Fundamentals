@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\bin\Debug\netcoreapp3.1\Last K Numbers Sums.exe
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\bin\Debug\netcoreapp3.1\Last K Numbers Sums.deps.json
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\bin\Debug\netcoreapp3.1\Last K Numbers Sums.runtimeconfig.json
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\bin\Debug\netcoreapp3.1\Last K Numbers Sums.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\bin\Debug\netcoreapp3.1\Last K Numbers Sums.dll
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\bin\Debug\netcoreapp3.1\Last K Numbers Sums.pdb
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.dll
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.pdb
+C:\Users\saturn\source\repos\Arrays  lab\Last K Numbers Sums\obj\Debug\netcoreapp3.1\Last K Numbers Sums.genruntimeconfig.cache

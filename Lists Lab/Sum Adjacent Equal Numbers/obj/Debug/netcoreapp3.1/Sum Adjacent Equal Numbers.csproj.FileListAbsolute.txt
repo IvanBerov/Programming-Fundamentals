@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.exe
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.deps.json
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.dll
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.pdb
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.dll
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.pdb
+C:\Users\saturn\source\repos\Lists Lab\Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\Sum Adjacent Equal Numbers.genruntimeconfig.cache

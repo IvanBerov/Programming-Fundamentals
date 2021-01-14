@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\bin\Debug\netcoreapp3.1\Fold and Sum 2.exe
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\bin\Debug\netcoreapp3.1\Fold and Sum 2.deps.json
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\bin\Debug\netcoreapp3.1\Fold and Sum 2.runtimeconfig.json
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\bin\Debug\netcoreapp3.1\Fold and Sum 2.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\bin\Debug\netcoreapp3.1\Fold and Sum 2.dll
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\bin\Debug\netcoreapp3.1\Fold and Sum 2.pdb
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.AssemblyInfo.cs
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.dll
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.pdb
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.genruntimeconfig.cache
+C:\Users\saturn\source\repos\array more exercises\Fold and Sum 2\obj\Debug\netcoreapp3.1\Fold and Sum 2.csprojAssemblyReference.cache

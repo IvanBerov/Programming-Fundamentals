@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\saturn\source\repos\Objects Classes Exercise\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

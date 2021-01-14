@@ -1,0 +1,12 @@
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\bin\Debug\netcoreapp3.1\sum min max first last average.exe
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\bin\Debug\netcoreapp3.1\sum min max first last average.deps.json
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\bin\Debug\netcoreapp3.1\sum min max first last average.runtimeconfig.json
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\bin\Debug\netcoreapp3.1\sum min max first last average.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\bin\Debug\netcoreapp3.1\sum min max first last average.dll
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\bin\Debug\netcoreapp3.1\sum min max first last average.pdb
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\obj\Debug\netcoreapp3.1\sum min max first last average.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\obj\Debug\netcoreapp3.1\sum min max first last average.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\obj\Debug\netcoreapp3.1\sum min max first last average.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\obj\Debug\netcoreapp3.1\sum min max first last average.dll
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\obj\Debug\netcoreapp3.1\sum min max first last average.pdb
+C:\Users\saturn\source\repos\Arrays  lab\sum min max first last average\obj\Debug\netcoreapp3.1\sum min max first last average.genruntimeconfig.cache

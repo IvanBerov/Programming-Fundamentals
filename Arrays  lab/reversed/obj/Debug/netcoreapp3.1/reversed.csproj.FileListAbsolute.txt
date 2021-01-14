@@ -1,0 +1,12 @@
+C:\Users\saturn\source\repos\Arrays  lab\reversed\bin\Debug\netcoreapp3.1\reversed.exe
+C:\Users\saturn\source\repos\Arrays  lab\reversed\bin\Debug\netcoreapp3.1\reversed.deps.json
+C:\Users\saturn\source\repos\Arrays  lab\reversed\bin\Debug\netcoreapp3.1\reversed.runtimeconfig.json
+C:\Users\saturn\source\repos\Arrays  lab\reversed\bin\Debug\netcoreapp3.1\reversed.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Arrays  lab\reversed\bin\Debug\netcoreapp3.1\reversed.dll
+C:\Users\saturn\source\repos\Arrays  lab\reversed\bin\Debug\netcoreapp3.1\reversed.pdb
+C:\Users\saturn\source\repos\Arrays  lab\reversed\obj\Debug\netcoreapp3.1\reversed.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Arrays  lab\reversed\obj\Debug\netcoreapp3.1\reversed.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Arrays  lab\reversed\obj\Debug\netcoreapp3.1\reversed.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Arrays  lab\reversed\obj\Debug\netcoreapp3.1\reversed.dll
+C:\Users\saturn\source\repos\Arrays  lab\reversed\obj\Debug\netcoreapp3.1\reversed.pdb
+C:\Users\saturn\source\repos\Arrays  lab\reversed\obj\Debug\netcoreapp3.1\reversed.genruntimeconfig.cache

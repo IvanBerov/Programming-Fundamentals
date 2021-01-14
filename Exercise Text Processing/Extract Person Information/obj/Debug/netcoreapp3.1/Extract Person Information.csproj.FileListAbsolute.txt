@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.exe
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.deps.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.runtimeconfig.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.dll
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.pdb
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.dll
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.pdb
+C:\Users\saturn\source\repos\Exercise Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.genruntimeconfig.cache

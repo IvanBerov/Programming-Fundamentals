@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\bin\Debug\netcoreapp3.1\Ass Arrays.exe
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\bin\Debug\netcoreapp3.1\Ass Arrays.deps.json
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\bin\Debug\netcoreapp3.1\Ass Arrays.runtimeconfig.json
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\bin\Debug\netcoreapp3.1\Ass Arrays.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\bin\Debug\netcoreapp3.1\Ass Arrays.dll
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\bin\Debug\netcoreapp3.1\Ass Arrays.pdb
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.dll
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.pdb
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Ass Arrays\obj\Debug\netcoreapp3.1\Ass Arrays.genruntimeconfig.cache

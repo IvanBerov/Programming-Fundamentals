@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.exe
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.deps.json
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.json
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\saturn\source\repos\Associative Arrays - Lab\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.genruntimeconfig.cache

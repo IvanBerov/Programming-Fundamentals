@@ -1,0 +1,12 @@
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\bin\Debug\netcoreapp3.1\Debug the Code.exe
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\bin\Debug\netcoreapp3.1\Debug the Code.deps.json
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\bin\Debug\netcoreapp3.1\Debug the Code.runtimeconfig.json
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\bin\Debug\netcoreapp3.1\Debug the Code.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\bin\Debug\netcoreapp3.1\Debug the Code.dll
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\bin\Debug\netcoreapp3.1\Debug the Code.pdb
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\obj\Debug\netcoreapp3.1\Debug the Code.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\obj\Debug\netcoreapp3.1\Debug the Code.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\obj\Debug\netcoreapp3.1\Debug the Code.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\obj\Debug\netcoreapp3.1\Debug the Code.dll
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\obj\Debug\netcoreapp3.1\Debug the Code.pdb
+C:\Users\saturn\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\Debug the Code\obj\Debug\netcoreapp3.1\Debug the Code.genruntimeconfig.cache

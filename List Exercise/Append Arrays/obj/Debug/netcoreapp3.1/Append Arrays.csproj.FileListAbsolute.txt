@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\train\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.exe
+C:\Users\saturn\source\repos\train\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.deps.json
+C:\Users\saturn\source\repos\train\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.runtimeconfig.json
+C:\Users\saturn\source\repos\train\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\train\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.dll
+C:\Users\saturn\source\repos\train\Append Arrays\bin\Debug\netcoreapp3.1\Append Arrays.pdb
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.AssemblyInfo.cs
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.dll
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.pdb
+C:\Users\saturn\source\repos\train\Append Arrays\obj\Debug\netcoreapp3.1\Append Arrays.genruntimeconfig.cache

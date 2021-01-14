@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\bin\Debug\netcoreapp3.1\Ascii Sumator.exe
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\bin\Debug\netcoreapp3.1\Ascii Sumator.deps.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\bin\Debug\netcoreapp3.1\Ascii Sumator.runtimeconfig.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\bin\Debug\netcoreapp3.1\Ascii Sumator.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\bin\Debug\netcoreapp3.1\Ascii Sumator.dll
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\bin\Debug\netcoreapp3.1\Ascii Sumator.pdb
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.dll
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.pdb
+C:\Users\saturn\source\repos\Exercise Text Processing\Ascii Sumator\obj\Debug\netcoreapp3.1\Ascii Sumator.genruntimeconfig.cache

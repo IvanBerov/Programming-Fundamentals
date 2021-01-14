@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\Centuries to Minutes.exe
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\Centuries to Minutes.deps.json
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.json
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\bin\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\saturn\source\repos\Data Types and Variables - Lab\ConsoleApp1\obj\Debug\netcoreapp3.1\Centuries to Minutes.genruntimeconfig.cache

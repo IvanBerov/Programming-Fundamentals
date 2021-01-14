@@ -1,0 +1,13 @@
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\bin\Debug\netcoreapp3.1\Morse Code Translator.exe
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\bin\Debug\netcoreapp3.1\Morse Code Translator.deps.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\bin\Debug\netcoreapp3.1\Morse Code Translator.runtimeconfig.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\bin\Debug\netcoreapp3.1\Morse Code Translator.runtimeconfig.dev.json
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\bin\Debug\netcoreapp3.1\Morse Code Translator.dll
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\bin\Debug\netcoreapp3.1\Morse Code Translator.pdb
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.csprojAssemblyReference.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.AssemblyInfo.cs
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.dll
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.pdb
+C:\Users\saturn\source\repos\Exercise Text Processing\Morse Code Translator\obj\Debug\netcoreapp3.1\Morse Code Translator.genruntimeconfig.cache
